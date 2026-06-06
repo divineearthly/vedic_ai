@@ -1,0 +1,87 @@
+[
+  {
+    "instruction": "Calculate 95 squared",
+    "input": "",
+    "output": "sutra1(95) = 9025"
+  },
+  {
+    "instruction": "Multiply 98 by 97",
+    "input": "",
+    "output": "sutra2(98,97) = 9506"
+  },
+  {
+    "instruction": "Cross multiply 23 by 47",
+    "input": "",
+    "output": "sutra3(23,47) = 1081"
+  },
+  {
+    "instruction": "What is 95\u00b2?",
+    "input": "",
+    "output": "Using Ekadhikena Sutra: 95\u00b2 = 9025"
+  },
+  {
+    "instruction": "Divide 100 by 9",
+    "input": "",
+    "output": "sutra4(100,9) = (11, 1)"
+  },
+  {
+    "instruction": "What is 100 \u00f7 9?",
+    "input": "",
+    "output": "Using Paravartya Sutra: 100 \u00f7 9 = 11 remainder 1"
+  },
+  {
+    "instruction": "Square 25",
+    "input": "",
+    "output": "Ekadhikena: 25\u00b2 = 625"
+  },
+  {
+    "instruction": "Square 45",
+    "input": "",
+    "output": "Ekadhikena: 45\u00b2 = 2025"
+  },
+  {
+    "instruction": "Square 85",
+    "input": "",
+    "output": "Ekadhikena: 85\u00b2 = 7225"
+  },
+  {
+    "instruction": "Multiply 96 by 94",
+    "input": "",
+    "output": "Nikhilam: 96 \u00d7 94 = 9024"
+  },
+  {
+    "instruction": "Multiply 97 by 93",
+    "input": "",
+    "output": "Nikhilam: 97 \u00d7 93 = 9021"
+  },
+  {
+    "instruction": "Multiply 99 by 98",
+    "input": "",
+    "output": "Nikhilam: 99 \u00d7 98 = 9702"
+  },
+  {
+    "instruction": "What is Brahman?",
+    "input": "",
+    "output": "Brahman is the ultimate reality, pure consciousness, the source of all existence."
+  },
+  {
+    "instruction": "Explain Dharma",
+    "input": "",
+    "output": "Dharma is righteous duty, cosmic order, and truth. It is the path of living in harmony."
+  },
+  {
+    "instruction": "What is Karma Yoga?",
+    "input": "",
+    "output": "Karma Yoga is the path of selfless action performed without attachment to results."
+  },
+  {
+    "instruction": "What is Moksha?",
+    "input": "",
+    "output": "Moksha is liberation from the cycle of birth and death, realization of one's true nature."
+  },
+  {
+    "instruction": "What is Advaita?",
+    "input": "",
+    "output": "Advaita teaches non-duality - the identity of Atman (individual self) and Brahman (universal consciousness)."
+  }
+]
