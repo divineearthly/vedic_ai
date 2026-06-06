@@ -1,0 +1,2 @@
+# Vedic Language Runtime
+# No heavy dependencies - works on Termux and Codespace
